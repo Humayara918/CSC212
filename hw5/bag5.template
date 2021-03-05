@@ -1,10 +1,6 @@
 // FILE: bag5.template
 // -------------------------------------------------------------------------
-// This is a partial implementation of the bag template class from Section
-// 10.5 of "Data Structures and Other Objects Using C++". The parts marked
-// with ***STUDENT WORK*** are left as a project for data structures
-// students. Some additional discussion of this project is available at
-// http://www-cs.engr.ccny.cuny.edu/~wolberg/cs212/hw/hw5.html
+
 // -------------------------------------------------------------------------
 // TEMPLATE CLASS IMPLEMENTED: bag<Item> (see bag5.h for documentation)
 // INVARIANT of the ADT:
